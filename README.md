@@ -11,14 +11,14 @@
 </samp>
 <table>
   <tr>
-    <td align="center" height="80">
+    <td align="center" height="60">
       <a href="https://github.com/tichelmorres">
-        <img src="https://avatars.githubusercontent.com/u/136039085?v=4" width="72">
+        <img src="https://avatars.githubusercontent.com/u/136039085?v=4" width="60">
       </a>
     </td>
-    <td align="center" height="80">
+    <td align="center" height="60">
       <a href="https://github.com/ochitsudayo">
-        <img src="https://avatars.githubusercontent.com/u/223552096?v=4" width="72">
+        <img src="https://avatars.githubusercontent.com/u/223552096?v=4" width="60">
       </a>
     </td>
   </tr>
