@@ -19,13 +19,13 @@
       </a>
     </td>
     <td align="center" height="60">
-      <a href="https://github.com/ochitsudayo">
+      <a href="https://github.com/2besita">
         <img src="https://avatars.githubusercontent.com/u/223552096?v=4" width="60">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center"><samp>tmorres</samp></td>
-    <td align="center"><samp>ochitsu</samp></td>
+    <td align="center"><samp>2besita</samp></td>
   </tr>
 </table>
