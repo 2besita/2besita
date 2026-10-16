@@ -2,7 +2,8 @@
 
 [learn C](https://www.cc4e.com/)<br/>
 <samp>
-    落ち着いて —  "ochitsuku"
+    ![Uploading image.png…]()
+落ち着く —  "ochitsuku"
     <br><br>
     1. to calm down;<br>
     2. to compose oneself;<br>
