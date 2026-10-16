@@ -7,7 +7,7 @@
     2. to compose oneself;<br>
     3. to regain presence of mind
     <br/><br/>
-    c, rust, js, ts, react
+    c, lua, rust, js, ts, react
     <br/><br/>
 </samp>
 <table>
