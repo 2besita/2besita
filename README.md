@@ -1,6 +1,6 @@
 <img src="poggers.jpeg" width="350" align="left">
 
-[learn C](https://www.cc4e.com/)
+[learn C](https://www.cc4e.com/)<br/>
 <samp>
     落ち着いて —  "ochitsuku"
     <br><br>
