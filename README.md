@@ -1,6 +1,7 @@
 <img src="poggers.jpeg" width="350" align="left">
 
 <samp>
+    [learn C](https://www.cc4e.com/)
     落ち着いて —  "ochitsuku"
     <br><br>
     1. to calm down;<br>
