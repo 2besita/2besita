@@ -1,12 +1,13 @@
-![poggers](poggers.jpeg)
+<img src="poggers.jpeg" width="350" align="left">
 
 <samp>
-落ち着いて —  "ochitsuku"
-1. to calm down;
-2. to compose oneself;
-3. to regain presence of mind
-<br/><br/>
-c, rust, js, ts, react
+    落ち着いて —  "ochitsuku"
+    <br><br>
+    1. to calm down;<br>
+    2. to compose oneself;<br>
+    3. to regain presence of mind
+    <br/><br/>
+    c, rust, js, ts, react
 </samp>
 <table>
   <tr>
