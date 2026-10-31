@@ -1,7 +1,6 @@
 <img src="poggers.jpeg" width="350" align="left">
 
 [learn C](https://www.cc4e.com/)<br/>
-<samp>
 落ち着く —  "ochitsuku"
     <br><br>
     1. to calm down;<br>
@@ -10,7 +9,6 @@
     <br/><br/>
     c, lua, rust, js, ts, react
     <br/><br/>
-</samp>
 <table>
   <tr>
     <td align="center" height="60">
