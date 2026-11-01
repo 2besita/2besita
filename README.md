@@ -1,4 +1,4 @@
-<img src="poggers.jpeg" width="350" align="left">
+<img src="learnC.png" width="330" align="left">
 
 [learn C](https://www.cc4e.com/)<br/>
 落ち着く —  "ochitsuku"
